@@ -1,0 +1,9 @@
+{
+  "input_interfaces": [
+    "ct-image"
+  ],
+  "output_interfaces": [
+    "lung-nodule-malignancy-risk"
+  ],
+  "roi_segmentation_interface": null
+}

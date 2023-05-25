@@ -5,7 +5,7 @@ import json
 from universalclassifier import predict
 
 #INPUT_PATH = "/home/lhboulogne/Downloads/test/inout/input/images/"
-#OUTPUT_PATH = "/home/lhboulogne/Downloads/test/inout/output/"
+#OUTPUT_PATH = "/home/lhboulogne/Downloads/test/inout/output/" 
 INPUT_PATH = "/input/images/"
 OUTPUT_PATH = "/output/"
 

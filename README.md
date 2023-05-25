@@ -4,7 +4,7 @@ This codebase contains an example submission for the [Automated Universal Classi
 
 If something does not work for you, please do not hesitate to contact us through a post in the forum on [https://auc23.grand-challenge.org/](https://auc23.grand-challenge.org/).
 
-## Table of Contents
+## Table of Contents 
 * [Prerequisites](#prerequisites)
 * [Creating an Algorithm on grand-challenge.org](#creating)
 * [Linking your repository to your Algorithm](#linking)
